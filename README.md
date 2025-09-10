@@ -16,6 +16,22 @@ It automatically generates a **10-week shopping plan** that maximises coupon usa
 
 ---
 
+## 📸 Screenshots
+
+### Weekly Budget Input
+![Budget Input](assets/screenshots/budget-input.png)
+
+### Shopping Calendar
+![Shopping Calendar](assets/screenshots/shopping-calendar.png)
+
+### Coupon Tracker
+![Coupon Tracker](assets/screenshots/coupon-tracker.png)
+
+### Savings Summary
+![Savings Summary](assets/screenshots/savings-summary.png)
+
+---
+
 ## 📂 Repository Structure
 
 ```
@@ -35,7 +51,7 @@ It automatically generates a **10-week shopping plan** that maximises coupon usa
 │   ├── App.tsx                       # Main application wrapper
 │   ├── index.css                     # Global styles (Tailwind)
 │   ├── main.tsx                      # Application entry point
-│   └── index.html                    # Root HTML template
+├── index.html                        # Root HTML template
 ├── package.json                      # Project dependencies and scripts
 ├── package-lock.json                 # Dependency lock file
 ├── postcss.config.js                 # PostCSS configuration
